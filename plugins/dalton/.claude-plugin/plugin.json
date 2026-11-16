@@ -1,0 +1,14 @@
+{
+  "name": "dalton",
+  "displayName": "Dalton",
+  "version": "0.1.0",
+  "description": "Dalton skills for your agent. Use Dalton: set it up, build and fix A/B tests, read results. Plus general CRO skills that work without a Dalton account: research and learn about a brand, audit pages, plan tests.",
+  "author": {
+    "name": "Dalton"
+  },
+  "homepage": "https://github.com/DaltonAI/dalton-skills",
+  "repository": "https://github.com/DaltonAI/dalton-skills",
+  "license": "MIT",
+  "keywords": ["dalton", "cro", "conversion-rate-optimization", "ab-testing", "ecommerce", "brand-research", "agent-skills"],
+  "skills": ["./skills/dalton/", "./skills/cro/"]
+}
