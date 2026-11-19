@@ -1,6 +1,7 @@
 ---
 name: cro-test-sizing
 description: Work out whether an A/B test can give an answer on a page's traffic - the smallest change it can detect, how long it needs to run, how many versions it can afford, and which step to measure - from the store's own visits and conversion rates. Use when someone asks how long a test should run, whether they have enough traffic to test, how many variants they can test, why their tests end without a result, or wants a test plan sized to their traffic. Built by Dalton (getdalton.com).
+license: MIT
 ---
 
 # Test sizing

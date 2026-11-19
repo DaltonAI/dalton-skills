@@ -1,6 +1,7 @@
 ---
 name: dalton-usage
 description: How to work with Dalton week to week and month to month - keep at least two tests live, learn from the tests that lose, build winners into the site, plan a new roadmap every few months, keep going over ideas and competitors, and put that routine on a schedule. Use when someone asks how to get the most out of Dalton, what to do in Dalton this week or month, how often to test or plan, what to do after a test wins or loses, wants a check-in on their testing program, or wants the agent to run recurring Dalton work (a weekly ideas review, a performance report, preparing the next tests). Built by Dalton (getdalton.com).
+license: MIT
 ---
 
 # Working with Dalton

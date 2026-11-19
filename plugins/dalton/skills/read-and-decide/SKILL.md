@@ -1,6 +1,7 @@
 ---
 name: read-and-decide
 description: Read an A/B test result in Dalton and decide what to do - ship, extend or stop - keeping what the data shows apart from the business decision, then write a short developer brief to build a winner into the site. Use when someone asks "did this test win?", "should we ship / extend / stop this?", "what does this result mean?", or needs to explain a result to their team. Needs the Dalton MCP connected. Built by Dalton (getdalton.com).
+license: MIT
 ---
 
 # Read and decide

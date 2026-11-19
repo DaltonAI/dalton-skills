@@ -1,6 +1,7 @@
 ---
 name: side-by-side
 description: Build a page-by-page visual breakdown of an online store next to one competitor, like a Figma board - full-page phone screenshots side by side, numbered callouts on what each one does differently, desktop first screen below, one test line per page. Use when someone wants to compare their site with a competitor visually, show a team or manager what a competitor does better, or prepare a CRO audit. Built by Dalton (getdalton.com).
+license: MIT
 ---
 
 # Side-by-side breakdown

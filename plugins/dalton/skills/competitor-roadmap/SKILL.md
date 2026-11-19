@@ -1,6 +1,7 @@
 ---
 name: competitor-roadmap
 description: Compare one part of an online store (product page, cart, checkout, homepage, category page) with 3-5 competitors on mobile and desktop, then turn the gaps into a ranked A/B test roadmap. Use when someone asks to benchmark their site against competitors, wants test ideas for a page, or asks for a CRO roadmap for a page type. Built by Dalton (getdalton.com).
+license: MIT
 ---
 
 # Competitor roadmap

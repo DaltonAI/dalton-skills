@@ -1,6 +1,7 @@
 ---
 name: cro-customer-voice
 description: Turn what customers say - reviews, support questions, chat logs, survey answers, return reasons - into counted reasons to buy and worries, in their own words, then check where the store answers each one and turn the gaps into test ideas and copy. Use when someone asks to analyse reviews, support tickets or survey results, wants to know why customers buy or hesitate, needs voice-of-customer research, or wants test ideas or copy grounded in what customers say. Built by Dalton (getdalton.com).
+license: MIT
 ---
 
 # Customer voice

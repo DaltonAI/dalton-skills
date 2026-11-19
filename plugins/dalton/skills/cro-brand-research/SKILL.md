@@ -1,6 +1,7 @@
 ---
 name: cro-brand-research
 description: Learn an online store's brand before changing anything - what it sells and to whom, what it promises and where those promises actually show on the site, its voice, its look, its offers, why customers buy and what worries them - and write it up as a one-page brand profile that tests and copy can follow. Use when someone asks to research or get to know a brand or store, to onboard a new store, to write a brand profile, or before planning tests or writing copy for a store you don't know yet. Built by Dalton (getdalton.com).
+license: MIT
 ---
 
 # Brand research

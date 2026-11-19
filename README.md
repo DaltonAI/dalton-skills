@@ -26,23 +26,23 @@ The repository holds 14 skills in two groups. Each one sits in its own folder wi
 
 These run on any online store. If the Dalton MCP server is connected, they also pull in the store's Dalton data.
 
-- [`cro-audit`](plugins/dalton/skills/cro/cro-audit/SKILL.md): a complete review of the store's data, funnel and competitors, ending in one ranked test roadmap for the months ahead.
-- [`cro-brand-research`](plugins/dalton/skills/cro/cro-brand-research/SKILL.md): builds a picture of a brand before any testing: what it promises and where, its tone, visual identity, offers and the reasons people buy.
-- [`cro-customer-voice`](plugins/dalton/skills/cro/cro-customer-voice/SKILL.md): groups reviews, support tickets and survey answers into counted reasons to buy, counted worries, and test ideas drawn from them.
-- [`cro-page-audit`](plugins/dalton/skills/cro/cro-page-audit/SKILL.md): checks a single page (product, landing, category, cart or checkout) against the questions a shopper has at that point.
-- [`funnel-walkthrough`](plugins/dalton/skills/cro/funnel-walkthrough/SKILL.md): goes through the store from homepage to checkout as a shopper would and logs each obstacle.
-- [`competitor-roadmap`](plugins/dalton/skills/cro/competitor-roadmap/SKILL.md): sets one page type beside 3-5 competitors and turns the differences into ranked tests.
-- [`side-by-side`](plugins/dalton/skills/cro/side-by-side/SKILL.md): lays your site and one competitor out next to each other, page by page, as visual boards.
-- [`cro-test-sizing`](plugins/dalton/skills/cro/cro-test-sizing/SKILL.md): tells you whether a test can reach a clear answer on your traffic, covering the smallest change it can detect, the time it needs and how many versions to run.
+- [`cro-audit`](plugins/dalton/skills/cro-audit/SKILL.md): a complete review of the store's data, funnel and competitors, ending in one ranked test roadmap for the months ahead.
+- [`cro-brand-research`](plugins/dalton/skills/cro-brand-research/SKILL.md): builds a picture of a brand before any testing: what it promises and where, its tone, visual identity, offers and the reasons people buy.
+- [`cro-customer-voice`](plugins/dalton/skills/cro-customer-voice/SKILL.md): groups reviews, support tickets and survey answers into counted reasons to buy, counted worries, and test ideas drawn from them.
+- [`cro-page-audit`](plugins/dalton/skills/cro-page-audit/SKILL.md): checks a single page (product, landing, category, cart or checkout) against the questions a shopper has at that point.
+- [`funnel-walkthrough`](plugins/dalton/skills/funnel-walkthrough/SKILL.md): goes through the store from homepage to checkout as a shopper would and logs each obstacle.
+- [`competitor-roadmap`](plugins/dalton/skills/competitor-roadmap/SKILL.md): sets one page type beside 3-5 competitors and turns the differences into ranked tests.
+- [`side-by-side`](plugins/dalton/skills/side-by-side/SKILL.md): lays your site and one competitor out next to each other, page by page, as visual boards.
+- [`cro-test-sizing`](plugins/dalton/skills/cro-test-sizing/SKILL.md): tells you whether a test can reach a clear answer on your traffic, covering the smallest change it can detect, the time it needs and how many versions to run.
 
 ### Dalton skills (need the Dalton MCP server)
 
-- [`dalton-setup`](plugins/dalton/skills/dalton/dalton-setup/SKILL.md): the starting point for Dalton. Connects the agent, installs the tracking script, sets up purchase tracking, plans a roadmap and builds the first tests.
-- [`dalton-usage`](plugins/dalton/skills/dalton/dalton-usage/SKILL.md): a week-by-week routine for an ongoing testing programme, with the agent taking on the repetitive jobs on a schedule.
-- [`build-in-dalton`](plugins/dalton/skills/dalton/build-in-dalton/SKILL.md): converts a test idea or a roadmap line into a draft inside Dalton.
-- [`qa-variant`](plugins/dalton/skills/dalton/qa-variant/SKILL.md): tests a draft before launch on both devices, on unusual pages and with real taps.
-- [`read-and-decide`](plugins/dalton/skills/dalton/read-and-decide/SKILL.md): helps you choose between shipping, extending and stopping a test, and writes a brief for your developers.
-- [`dalton-review-ideas`](plugins/dalton/skills/dalton/dalton-review-ideas/SKILL.md): works through the ideas Dalton's CRO agent has surfaced, improves their drafts and helps you choose which to run.
+- [`dalton-setup`](plugins/dalton/skills/dalton-setup/SKILL.md): the starting point for Dalton. Connects the agent, installs the tracking script, sets up purchase tracking, plans a roadmap and builds the first tests.
+- [`dalton-usage`](plugins/dalton/skills/dalton-usage/SKILL.md): a week-by-week routine for an ongoing testing programme, with the agent taking on the repetitive jobs on a schedule.
+- [`build-in-dalton`](plugins/dalton/skills/build-in-dalton/SKILL.md): converts a test idea or a roadmap line into a draft inside Dalton.
+- [`qa-variant`](plugins/dalton/skills/qa-variant/SKILL.md): tests a draft before launch on both devices, on unusual pages and with real taps.
+- [`read-and-decide`](plugins/dalton/skills/read-and-decide/SKILL.md): helps you choose between shipping, extending and stopping a test, and writes a brief for your developers.
+- [`dalton-review-ideas`](plugins/dalton/skills/dalton-review-ideas/SKILL.md): works through the ideas Dalton's CRO agent has surfaced, improves their drafts and helps you choose which to run.
 
 ## Install
 
@@ -118,9 +118,7 @@ Any agent that supports the open [Agent Skills](https://agentskills.io) format, 
 plugins/dalton/                            The plugin (only this folder is installed)
 ├── .claude-plugin/plugin.json             Plugin manifest
 ├── README.md
-└── skills/
-    ├── cro/<skill-name>/SKILL.md          General CRO skills
-    └── dalton/<skill-name>/SKILL.md       Dalton skills
+└── skills/<skill-name>/SKILL.md           One folder per skill, CRO and Dalton alike
 ```
 
 ## License

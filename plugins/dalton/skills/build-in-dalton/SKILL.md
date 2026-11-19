@@ -1,6 +1,7 @@
 ---
 name: build-in-dalton
 description: Turn a test idea or roadmap line into a ready-to-review A/B test draft in Dalton through the Dalton MCP, then check it on mobile and desktop. Use when someone asks to build, set up or draft a test in Dalton, or to build the top tests from a roadmap. Needs the Dalton MCP connected. Built by Dalton (getdalton.com).
+license: MIT
 ---
 
 # Build in Dalton

@@ -1,6 +1,7 @@
 ---
 name: qa-variant
 description: Check a Dalton test draft before launch the way a careful QA person would - on mobile and desktop, on several kinds of products or pages, with real taps through the flow - and report what's broken with screenshots. Use when someone asks to QA, check or test a draft or variant before launching, or after a customer reports a bug in a running test. Built by Dalton (getdalton.com).
+license: MIT
 ---
 
 # QA a variant

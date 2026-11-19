@@ -1,6 +1,7 @@
 ---
 name: cro-audit
 description: Run a full CRO audit of an online store - data, funnel walkthrough, side-by-side with a competitor, competitor scan - and turn it into one ranked test roadmap for the next months. Use when someone asks for a CRO audit, a conversion review of their site, or a test plan for the coming months. Combines the side-by-side, competitor-roadmap and funnel-walkthrough skills. Built by Dalton (getdalton.com).
+license: MIT
 ---
 
 # CRO audit

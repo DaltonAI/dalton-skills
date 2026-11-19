@@ -9,6 +9,5 @@
   "homepage": "https://github.com/DaltonAI/dalton-skills",
   "repository": "https://github.com/DaltonAI/dalton-skills",
   "license": "MIT",
-  "keywords": ["dalton", "cro", "conversion-rate-optimization", "ab-testing", "ecommerce", "brand-research", "agent-skills"],
-  "skills": ["./skills/dalton/", "./skills/cro/"]
+  "keywords": ["dalton", "cro", "conversion-rate-optimization", "ab-testing", "ecommerce", "brand-research", "agent-skills"]
 }

@@ -1,6 +1,7 @@
 ---
 name: cro-page-audit
 description: Audit one page of an online store on its own - a product page, landing page, category page, cart or checkout - on mobile and desktop, by checking how it answers each question a buyer has at that moment, including trust, price and delivery, and the mobile first screen. Returns the problems by severity with screenshots, the tests worth running, and a just-fix list. Use when someone asks to audit, review or improve a specific page or page type, asks why a page doesn't convert, or wants test ideas for one page without a competitor comparison. Built by Dalton (getdalton.com).
+license: MIT
 ---
 
 # Page audit

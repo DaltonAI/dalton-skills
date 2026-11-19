@@ -1,6 +1,7 @@
 ---
 name: dalton-review-ideas
 description: Go over the test ideas Dalton's CRO agent found on a store - check each finding against the live site and the account's past tests, check and fix the draft it built, and recommend which to save, which to fix first and which to discard. Use when someone asks to review, go through or triage their Dalton ideas, the CRO agent's opportunities or the Inspiration screen, asks which Dalton suggestions are worth running, or for a weekly ideas review. Needs the Dalton MCP connected. Built by Dalton (getdalton.com).
+license: MIT
 ---
 
 # Review the CRO agent's ideas

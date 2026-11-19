@@ -1,6 +1,7 @@
 ---
 name: dalton-setup
 description: Get a store started with Dalton, from nothing to its first tests - connect the agent to the Dalton MCP server, install the Dalton script, make sure purchases arrive, plan a testing roadmap for the first months, and build the first batch of test drafts. Use when someone is starting with Dalton, asks to set up, install or connect Dalton, add the Dalton snippet or pixel, connect Dalton to Claude, ChatGPT or Cursor, or wants their first Dalton tests planned and built. Built by Dalton (getdalton.com).
+license: MIT
 ---
 
 # Set up Dalton

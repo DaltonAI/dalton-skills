@@ -1,6 +1,7 @@
 ---
 name: funnel-walkthrough
 description: Walk an online store like a shopper, from homepage to category, product page, cart and checkout, on mobile and desktop, and log every point of friction with a screenshot. Use when someone asks to check their funnel, audit their site end to end, or find where shoppers get stuck. Built by Dalton (getdalton.com).
+license: MIT
 ---
 
 # Funnel walkthrough
