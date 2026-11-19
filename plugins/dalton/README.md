@@ -13,7 +13,8 @@ your Dalton login: see the [MCP server docs](https://docs.getdalton.com/advanced
 ## Install
 
 ```text
-/plugin install dalton --marketplace DaltonAI/dalton-skills
+/plugin marketplace add DaltonAI/dalton-skills
+/plugin install dalton@dalton-skills
 ```
 
 ## Links
